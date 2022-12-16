@@ -59,14 +59,14 @@ const Footer = () => {
                   <GoLocation
                     style={{ fontSize: "18px", marginRight: " 15px" }}
                   />{" "}
-                  210-27 Quadra, Canada
+                  Maharashtra India
                 </p>
                 <p style={{ padding: "0px", marginTop: "5px" }}>
                   {" "}
                   <FiPhoneCall
                     style={{ fontSize: "18px", marginRight: " 15px" }}
                   />{" "}
-                  +07 554 332 322{" "}
+                  +91 90215 57095
                 </p>
                 <p style={{ padding: "0px", marginTop: "5px" }}>
                   {" "}
@@ -153,58 +153,23 @@ const Footer = () => {
               </div>
             </div>
             <div className="col-lg-3 col-md-6">
-              <div className="footer-instagram mt-30">
-                <h3 className="title">Instagram</h3>
+              <div className="footer-list item-2 mt-30 pl-45">
+                <h3 className="title">Visit Here</h3>
                 <ul>
                   <li>
-                    <a href="javascript:void(0)">
-                      <img
-                        src={require("../../Assets/images/ins-1.jpg")}
-                        alt=""
-                      />
-                    </a>
+                    <a href="faq.html">Privacy Policy</a>
                   </li>
                   <li>
-                    <a href="javascript:void(0)">
-                      <img
-                        src={require("../../Assets/images/ins-1.jpg")}
-                        alt=""
-                      />
-                    </a>
+                    <a href="gallery.html">Policy Disclaimers</a>
                   </li>
                   <li>
-                    <a href="javascript:void(0)">
-                      <img
-                        src={require("../../Assets/images/ins-1.jpg")}
-                        alt=""
-                      />
-                    </a>
-                  </li>
-                </ul>
-                <ul>
-                  <li>
-                    <a href="javascript:void(0)">
-                      <img
-                        src={require("../../Assets/images/ins-1.jpg")}
-                        alt=""
-                      />
-                    </a>
+                    <a href="service-details.html">Refund Policy</a>
                   </li>
                   <li>
-                    <a href="javascript:void(0)">
-                      <img
-                        src={require("../../Assets/images/ins-1.jpg")}
-                        alt=""
-                      />
-                    </a>
+                    <a href="error.html">Become a Partner</a>
                   </li>
                   <li>
-                    <a href="javascript:void(0)">
-                      <img
-                        src={require("../../Assets/images/ins-1.jpg")}
-                        alt=""
-                      />
-                    </a>
+                    <a href="our-team.html">Career</a>
                   </li>
                 </ul>
               </div>

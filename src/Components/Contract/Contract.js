@@ -49,13 +49,11 @@ const Contract = () => {
                           className="custom-select-categories"
                           required
                         >
-                          <option value="">Freight type</option>
-                          <option>Type one</option>
-                          <option>Type two</option>
-                          <option>Type Three</option>
-                          <option>Type Four</option>
-                          <option>Type Five</option>
-                          <option>Type Six</option>
+                          <option value="">Services</option>
+                          <option>Movers & Packers</option>
+                          <option>Storage</option>
+                          <option>Courier</option>
+                          <option>Vehicle Transport</option>
                         </select>
                       </div>
                     </div>
@@ -63,7 +61,7 @@ const Contract = () => {
                       <div className="form-group mrb-30">
                         <input
                           type="text"
-                          placeholder="City of Departure*"
+                          placeholder="City "
                           className="form-control"
                         />
                       </div>
@@ -72,7 +70,7 @@ const Contract = () => {
                       <div className="form-group mrb-30">
                         <input
                           type="text"
-                          placeholder="Delivery City*"
+                          placeholder="State"
                           className="form-control"
                         />
                       </div>

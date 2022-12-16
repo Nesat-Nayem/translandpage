@@ -15,7 +15,7 @@ const Header = () => {
                   <ul>
                     <li>
                       <a href="tel:+07554332322">
-                        <FiPhoneCall /> Call : +07 554 332 322
+                        <FiPhoneCall /> Call : +91 90215 57095
                       </a>
                     </li>
                     <li>
@@ -24,7 +24,7 @@ const Header = () => {
                       </a>
                     </li>
                     <li>
-                      <GoLocation /> 210-27 Quadra, Canada
+                      <GoLocation /> Maharashtra India
                     </li>
                   </ul>
                 </div>
@@ -61,9 +61,9 @@ const Header = () => {
       <div className="navbar-area sticky-top">
         {/* <!-- Menu For Mobile Device --> */}
         <div className="mobile-nav">
-          <a href="index.html" className="logo">
+          {/* <a href="index.html" className="logo">
             <img src={require("../../Assets/images/logo-two.png")} alt="" />
-          </a>
+          </a> */}
         </div>
         {/* <!-- Menu For Desktop Device --> */}
         <div className="main-nav sticky-top">
