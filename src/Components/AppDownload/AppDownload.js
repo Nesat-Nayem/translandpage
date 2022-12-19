@@ -64,7 +64,7 @@ const AppDownload = () => {
                         borderRadius: "25px",
                       }}
                     >
-                      {" "}
+                      
                       <BsApple className="mr-2" /> app store
                     </button>
                     <button
@@ -81,7 +81,7 @@ const AppDownload = () => {
                         borderRadius: "25px",
                       }}
                     >
-                      {" "}
+                      
                       <FaGooglePlay className="mr-2" />
                       google-play
                     </button>

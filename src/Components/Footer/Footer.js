@@ -102,7 +102,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a href="javascript:void(0)">
-                      <i className="fa fa-pinterest-p"></i>
+                      <i className="fa fa-pinterest"></i>
                     </a>
                   </li>
                 </ul>
